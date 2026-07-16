@@ -1,0 +1,554 @@
+<div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={lombardiaImg}
+        alt="Lombardia"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Lombardia
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.lombardia.it"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={venetoImg}
+        alt="Veneto"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Veneto
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.veneto.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={piemonteImg}
+        alt="Piemonte"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Piemonte
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.piemonte.it/web/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+  
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={liguriaImg}
+        alt="Liguria"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Liguria
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.liguria.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={emiliaImg}
+        alt="Emilia-Romagna"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Emilia-Romagna
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.emilia-romagna.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+  
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={trentinoImg}
+        alt="Trentino-Alto Adige"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Trentino-Alto Adige
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.taa.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+  
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={friuliImg}
+        alt="Friuli-Venezia Giulia"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Friuli Venezia-Giulia
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.fvg.it/rafvg/cms/RAFVG/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+  
+  <div className='font-extrabold text-black flex justify-center bg-yellow-400 py-4 px-3'>
+      ITALIA CENTRALE
+
+  </div>
+
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={toscanaImg}
+        alt="Toscana"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Toscana
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.toscana.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={umbriaImg}
+        alt="Umbria"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Umbria
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.umbria.it/home"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+  
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={marcheImg}
+        alt="Marche"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Marche
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.marche.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+  
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={lazioImg}
+        alt="Lazio"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Lazio
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.lazio.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+
+  <div className='font-extrabold text-black flex justify-center bg-red-700 py-4 px-3'>
+      ITALIA MERIDIONALE
+  </div>
+
+  <div className="bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center">
+
+    {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={abruzzoImg}
+        alt="Abruzzo"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Abruzzo
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.abruzzo.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+
+  </div>
+
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={moliseImg}
+        alt="Molise"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Molise
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.molise.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+  
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={campaniaImg}
+        alt="Campania"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Campania
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.campania.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+  
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={basilicataImg}
+        alt="Basilicata"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Basilicata
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.basilicata.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+  
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={pugliaImg}
+        alt="Puglia"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Puglia
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.puglia.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+  
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={calabriaImg}
+        alt="Calabria"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Calabria
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.calabria.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+  
+  <div className='font-extrabold text-black flex justify-center bg-blue-700 py-4 px-3'>
+      ITALIA INSULARE
+  </div>
+
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={siciliaImg}
+        alt="Sicilia"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Sicilia
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.sicilia.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+
+  <div className='bg-white rounded-xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 flex justify-between items-center'>
+      {/* Parte sinistra */}
+    <div className="flex items-center gap-5">
+      <img
+        src={sardegnaImg}
+        alt="Sardegna"
+        className="w-28 h-20 object-cover rounded-lg"
+      />
+
+      <h2 className="text-2xl font-bold text-gray-800">
+        Sardegna
+      </h2>
+    </div>
+
+    {/* Parte destra */}
+    <div className="self-end">
+      <a
+        href="https://www.regione.sardegna.it/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-blue-600 hover:underline font-medium"
+      >
+        Vai al portale →
+      </a>
+    </div>
+  </div>
+    </div>
+      
+  
+  
+</div>
